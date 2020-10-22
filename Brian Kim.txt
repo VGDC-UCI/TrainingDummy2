@@ -2,3 +2,4 @@
 Training repo for the git workshop
 Hello! This is Brian Kim. Because I do not know my coding just yet, I am taking a hard stance with only writing. Hopefully, my writing skills won't disappoint!
 Hey, what the frick! Who is changing my stuff! Oh wait, that's just me.
+Hehehe I figured it out, thanks for posting the slides Duncan!
